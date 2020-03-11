@@ -1,0 +1,14 @@
+{
+  "name": "ex4",
+  "version": "1.0.0",
+  "description": "este projeto exibi a mensagem Olá Jonatas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonatas Alves",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
